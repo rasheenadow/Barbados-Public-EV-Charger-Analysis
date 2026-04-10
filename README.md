@@ -20,7 +20,7 @@ Demographic data (Source: Barbados Poulation Census Data 2020): Parish-level pop
 - 'scripts/' – R scripts used for data cleaning, exploratory data anaylsis (including outlier analysis) and final analysis
 - 'metadata/' – Data dictionaries, variable descriptions, and data provenance.
 - 'outputs/- – Generated figures, tables, maps, and summary results.
-  
+
 ## Requirements
 **Software:** R (4.0+)
 **R packages:** library(sf), library(ggplot2), library(ggspatial), library(geodata), library(dplyr), library(ggrepel), library(tidyverse), library(scales), library(ggthemes), library(lubridate), library(patchwork)
