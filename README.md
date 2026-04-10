@@ -22,10 +22,11 @@ Demographic data (Source: Barbados Poulation Census Data 2020): Parish-level pop
 - 'outputs/ – Generated figures, tables, maps, and summary results.
 
 ## Requirements
-**Software:** 
-### R (4.0+) - for all data cleaning, analysis and visualisation; 
-**R packages:** library(sf), library(ggplot2), library(ggspatial), library(geodata), library(dplyr), library(ggrepel), library(tidyverse), library(scales), library(ggthemes), library(lubridate), library(patchwork)
-### Python (3.12.10) - to push to github
+**Software:**
+
+ R (4.0+) - for all data cleaning, analysis and visualisation; R packages: library(sf), library(ggplot2), library(ggspatial), library(geodata), library(dplyr), library(ggrepel), library(tidyverse), library(scales), library(ggthemes), library(lubridate), library(patchwork)
+
+*Note*: The project files were uploaded directly to GitHub due to persistent authentication and merge conflict issues encountered during the development process, which could not be fully resolved prior to the project deadline. Alternatively, the repository could have been updated using a Python (3.12.10) script in CoCalc to automate the Git push process. A sample script has been included for reproducibility via Python, where the relevant username, email address and personal access token would need to be entered.
 
 ## Contact Info
 **Name:** Rasheena Dow
