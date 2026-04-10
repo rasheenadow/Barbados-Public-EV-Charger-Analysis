@@ -23,7 +23,7 @@ Demographic data (Source: Barbados Poulation Census Data 2020): Parish-level pop
 
 ## Requirements
 **Software:** 
-### R (4.0+) for all data cleaning, analysis and visualisation; 
+### R (4.0+) - for all data cleaning, analysis and visualisation; 
 **R packages:** library(sf), library(ggplot2), library(ggspatial), library(geodata), library(dplyr), library(ggrepel), library(tidyverse), library(scales), library(ggthemes), library(lubridate), library(patchwork)
 ### Python (3.12.10) - to push to github
 
