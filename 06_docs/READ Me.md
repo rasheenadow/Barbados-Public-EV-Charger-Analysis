@@ -26,7 +26,7 @@ Demographic data (Source: Barbados Poulation Census Data 2020): Parish-level pop
 
  R (4.0+) - for all data cleaning, analysis and visualisation; R packages: library(sf), library(ggplot2), library(ggspatial), library(geodata), library(dplyr), library(ggrepel), library(tidyverse), library(scales), library(ggthemes), library(lubridate), library(patchwork)
 
-Python (3.12.10) - to push to github
+*Note*: The project files were uploaded directly to GitHub due to persistent authentication and merge conflict issues encountered during the development process, which could not be fully resolved prior to the project deadline. Alternatively, the repository could have been updated using a Python (3.12.10) script in CoCalc to automate the Git push process. A sample script has been included for reproducibility via Python, where the relevant username, email address and personal access token would need to be entered.
 
 ## Contact Info
 **Name:** Rasheena Dow
@@ -34,55 +34,3 @@ Python (3.12.10) - to push to github
 
 ## License
 Educational use only – This project and its contents are for learning and non-commercial use.
-
-# 02_processed_data
-
-This folder contains cleaned and analysis-ready datasets.
-
-## Contents
-- EV charging session data (cleaned)
-- EV charger statistics (cleaned)
-- Parish-level population data (cleaned)
-
-## Notes
-- Data has been cleaned, standardised, and prepared for analysis.
-- Files are generated using scripts in `/03_scripts`.
-- Do not manually edit.
-
-# 03_scripts
-
-This folder contains R scripts used for data cleaning, analysis, and visualisation.
-
-## Includes
-- Data preprocessing and cleaning
-- Exploratory data analysis (EDA); including some outlier analysis
-- Spatial and statistical analysis
-- Visualisation code
-
-## Notes
-- Scripts use data from `/02_processed_data`.
-- Use relative paths for reproducibility.
-
-# 04_metadata
-
-This folder contains documentation about the datasets used in the project.
-
-## Includes
-- Data dictionaries
-- Variable descriptions
-- Data sources and processing notes
-
-## Purpose
-Supports transparency and helps users understand the data.
-
-# 05_outputs
-
-This folder contains results generated from the analysis.
-
-## Includes
-- Charts and visualisations
-- Maps
-
-## Notes
-- Outputs are created using scripts in `/03_scripts`.
-- Files should not be manually edited.
