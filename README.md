@@ -7,8 +7,8 @@
 **Data Utilised:** The analysis focussed on three main data types:
 
 Operational data (Source: Megapower Ltd. Public EV Charging Network 2025): 
-- EV charging session records (e.g., session duration, energy delivered, timestamps, session counts) - Barbados_public_EV_charger_sessions_full_2025_cleaned.csv;
-- EV statistics records (e.g., charger ID, number of unique drivers, number of sessions, geolocation) - Barbados_public_EV_charger_statistics_2025_cleaned.csv
+- EV charging session records (e.g., session duration, energy delivered, timestamps, session counts) - file: Barbados_public_EV_charger_sessions_full_2025_cleaned.csv;
+- EV statistics records (e.g., charger ID, number of unique drivers, number of sessions, geolocation) - file: Barbados_public_EV_charger_statistics_2025_cleaned.csv
 
 Geospatial data (Source:GADM v4.1): Barbados Parish Boundaries – this data was accessed programmatically via the geodata R package. It provides official administrative boundaries for spatial analysis and mapping of EV charging infrastructure.
 
