@@ -1,0 +1,471 @@
+charger_display_id,location_name,location_parish,local_time_zone,geolocation,start_date,end_date,sessions_count,unique_drivers_count,charging_time_min,energy_provided_kWh
+MP-025,Massy Warrens,St. Michael,America/Barbados,"13.1418840472076,-59.6087500021415",1/1/2025,1/31/2025,167,42,7886.5,3618
+MP-001,Massy Sunset Crest,St. James,America/Barbados,"13.1850239447129,-59.6374305021412",1/1/2025,1/31/2025,5,3,89.19,11
+MP-0079,Massy Sunset Crest,St. James,America/Barbados,"13.1850239447129,-59.6374305021412",1/1/2025,1/31/2025,15,11,300.82,110.3
+MP-001,Massy Sunset Crest,St. James,America/Barbados,"13.1850239447129,-59.6374305021412",2/1/2025,2/28/2025,7,3,505.95,62.4
+MP-025,Massy Warrens,St. Michael,America/Barbados,"13.1418840472076,-59.6087500021415",2/1/2025,2/28/2025,133,39,6038.5,2728.2
+MP-0079,Massy Sunset Crest,St. James,America/Barbados,"13.1850239447129,-59.6374305021412",2/1/2025,2/28/2025,8,6,140.73,51.6
+MP-025,Massy Warrens,St. Michael,America/Barbados,"13.1418840472076,-59.6087500021415",3/1/2025,3/31/2025,129,39,6660.46,3131.9
+MP-001,Massy Sunset Crest,St. James,America/Barbados,"13.1850239447129,-59.6374305021412",3/1/2025,3/31/2025,11,3,587.03,72.4
+MP-0079,Massy Sunset Crest,St. James,America/Barbados,"13.1850239447129,-59.6374305021412",3/1/2025,3/31/2025,20,8,292.04,107.1
+MP-025,Massy Warrens,St. Michael,America/Barbados,"13.1418840472076,-59.6087500021415",4/1/2025,4/30/2025,139,39,6535.68,3064.6
+MP-001,Massy Sunset Crest,St. James,America/Barbados,"13.1850239447129,-59.6374305021412",4/1/2025,4/30/2025,4,3,115.14,14.2
+MP-0079,Massy Sunset Crest,St. James,America/Barbados,"13.1850239447129,-59.6374305021412",4/1/2025,4/30/2025,12,5,193.36,70.9
+MP-025,Massy Warrens,St. Michael,America/Barbados,"13.1418840472076,-59.6087500021415",5/1/2025,5/31/2025,138,41,7195.53,3441.6
+MP-001,Massy Sunset Crest,St. James,America/Barbados,"13.1850239447129,-59.6374305021412",5/1/2025,5/31/2025,8,3,339.73,41.9
+MP-0079,Massy Sunset Crest,St. James,America/Barbados,"13.1850239447129,-59.6374305021412",5/1/2025,5/31/2025,14,12,380.18,139.4
+MP-025,Massy Warrens,St. Michael,America/Barbados,"13.1418840472076,-59.6087500021415",6/1/2025,6/30/2025,129,39,6206.84,2877.8
+MP-001,Massy Sunset Crest,St. James,America/Barbados,"13.1850239447129,-59.6374305021412",6/1/2025,6/30/2025,3,3,513.24,63.3
+MP-0079,Massy Sunset Crest,St. James,America/Barbados,"13.1850239447129,-59.6374305021412",6/1/2025,6/30/2025,17,9,226.36,83
+MP-025,Massy Warrens,St. Michael,America/Barbados,"13.1418840472076,-59.6087500021415",7/1/2025,7/31/2025,34,21,2295.41,997.5
+MP-001,Massy Sunset Crest,St. James,America/Barbados,"13.1850239447129,-59.6374305021412",7/1/2025,7/31/2025,5,4,182.43,22.5
+MP-0079,Massy Sunset Crest,St. James,America/Barbados,"13.1850239447129,-59.6374305021412",7/1/2025,7/31/2025,11,5,107.45,39.4
+MP-025,Massy Warrens,St. Michael,America/Barbados,"13.1418840472076,-59.6087500021415",8/1/2025,8/31/2025,89,35,4795.13,2048.5
+MP-001,Massy Sunset Crest,St. James,America/Barbados,"13.1850239447129,-59.6374305021412",8/1/2025,8/31/2025,4,1,0,0
+MP-0079,Massy Sunset Crest,St. James,America/Barbados,"13.1850239447129,-59.6374305021412",8/1/2025,8/31/2025,15,5,185.18,67.9
+MP-025,Massy Warrens,St. Michael,America/Barbados,"13.1418840472076,-59.6087500021415",9/1/2025,9/30/2025,65,30,2720.13,1174.9
+MP-001,Massy Sunset Crest,St. James,America/Barbados,"13.1850239447129,-59.6374305021412",9/1/2025,9/30/2025,8,5,287.84,35.5
+MP-0079,Massy Sunset Crest,St. James,America/Barbados,"13.1850239447129,-59.6374305021412",9/1/2025,9/30/2025,11,7,220.64,80.9
+MP-001,Massy Sunset Crest,St. James,America/Barbados,"13.1850239447129,-59.6374305021412",10/1/2025,10/31/2025,5,3,143.51,17.7
+MP-025,Massy Warrens,St. Michael,America/Barbados,"13.1418840472076,-59.6087500021415",10/1/2025,10/31/2025,118,45,4873.27,2077.3
+MP-0079,Massy Sunset Crest,St. James,America/Barbados,"13.1850239447129,-59.6374305021412",10/1/2025,10/31/2025,17,9,441,161.7
+MP-025,Massy Warrens,St. Michael,America/Barbados,"13.1418840472076,-59.6087500021415",11/1/2025,11/30/2025,135,45,5041.88,2137.6
+MP-001,Massy Sunset Crest,St. James,America/Barbados,"13.1850239447129,-59.6374305021412",11/1/2025,11/30/2025,3,1,30,3.7
+MP-0079,Massy Sunset Crest,St. James,America/Barbados,"13.1850239447129,-59.6374305021412",11/1/2025,11/30/2025,25,12,576.55,211.4
+MP-025,Massy Warrens,St. Michael,America/Barbados,"13.1418840472076,-59.6087500021415",12/1/2025,12/31/2025,144,45,6181.51,2642.5
+MP-001,Massy Sunset Crest,St. James,America/Barbados,"13.1850239447129,-59.6374305021412",12/1/2025,12/31/2025,1,1,0,0
+MP-0079,Massy Sunset Crest,St. James,America/Barbados,"13.1850239447129,-59.6374305021412",12/1/2025,12/31/2025,18,9,502.91,184.4
+MP-022,Megapower Workshop,Christ Church,America/Barbados,"13.0668347,-59.5270605",1/1/2025,1/31/2025,0,0,0,0
+MP-007,BLPC Garrison,St. Thomas,America/Barbados,"13.0813384907889,-59.6077824021418",1/1/2025,1/31/2025,6,3,165,60.5
+MP-059,Millenium Heights 2,St. Thomas,America/Barbados,"13.15199,-59.60893",1/1/2025,1/31/2025,9,2,1740,214.6
+MP-063,Port St Charles (Pier One Restaurant),St. Peter,America/Barbados,"13.264145,-59.644266",1/1/2025,1/31/2025,24,7,3924.32,484
+MP-058,One Welches Ltd,St. Thomas,America/Barbados,"13.155162,-59.613737",1/1/2025,1/31/2025,28,3,2826.24,348.7
+MP-051,Barbados Golf Club,Christ Church,America/Barbados,"13.0729306,-59.5267344",1/1/2025,1/31/2025,30,8,0,0
+MP-014,One Haggatt Hall,St. Michael,America/Barbados,"13.1053216,-59.5822663",1/1/2025,1/31/2025,8,2,1569.73,193.6
+MP-024,The Walk,St. Thomas,America/Barbados,"13.155103143456,-59.6113313021413",1/1/2025,1/31/2025,4,4,300.1,129.2
+MP-010,City Center Mall and Carpark,St. Michael,America/Barbados,"13.098217704116,-59.6175783039002",1/1/2025,1/31/2025,18,8,2353.78,290.3
+MP-70,Megapower Office ,St. Michael,America/Barbados,"13.093006,-59.586553",1/1/2025,1/31/2025,0,0,0,0
+MP-006,The Condominiums at Palm Beach,Christ Church ,America/Barbados,"13.0758939907924,-59.6029012733064",1/1/2025,1/31/2025,4,1,1195.14,147.4
+MP-050,Cotton Bay (Freights Bay),Christ Church,America/Barbados,"13.05355,-59.53499",1/1/2025,1/31/2025,12,7,1731.89,213.6
+MP-065,Cedar Court,St. Michael,America/Barbados,"13.09375,-59.585849",1/1/2025,1/31/2025,71,10,7371.89,909.2
+MP-003,Speightstown Esplanade,St. Peter,America/Barbados,"13.2508718611134,-59.6442456867991",1/1/2025,1/31/2025,14,4,2072.43,255.6
+MP-020,The Walk,St. Thomas,America/Barbados,"13.155103143456,-59.6113313021413",1/1/2025,1/31/2025,0,0,0,0
+MP-004,Millennium Heights,St. Thomas,America/Barbados,"13.150460382201004,-59.61058751275202",1/1/2025,1/31/2025,22,5,4400.27,542.7
+MP-061,Sheraton Center Barbados,Christ Church,America/Barbados,"13.0828117900741,-59.5666073309772",1/1/2025,1/31/2025,81,25,11312.35,1395.2
+MP-073,Melbourne Inn,Christ Church,America/Barbados,"13.0660298,-59.5649616",1/1/2025,1/31/2025,25,5,1209.27,443.4
+MP-40,Barbados Yacht Club,St. Michael,America/Barbados,"13.083583,-59.608611",1/1/2025,1/31/2025,29,8,3487.3,430.1
+MP-075,Megapower Office ,St. Michael,America/Barbados,"13.093006,-59.586553",1/1/2025,1/31/2025,60,6,2218.36,813.4
+MP-015,Sky Mall,St. Michael,America/Barbados,"13.105389,-59.579667",1/1/2025,1/31/2025,49,21,4251.08,524.3
+MP-055,The Walk,St. Thomas,America/Barbados,"13.155103143456,-59.6113313021413",1/1/2025,1/31/2025,28,14,2220.81,273.9
+MP-021,Limegrove,St. James,America/Barbados,"13.1865238988325,-59.6359529309767",1/1/2025,1/31/2025,37,13,314.55,524.3
+MP-080,The Mill Barbados (Millhouse),St. Thomas,America/Barbados,"13.147281,-59.593348",1/1/2025,1/31/2025,16,3,718.91,263.6
+MP-082,One Welches Ltd,St. Thomas,America/Barbados,"13.155162,-59.613737",1/1/2025,1/31/2025,22,2,44.73,16.4
+MP-054,One Barbados Warrens,St. Michael,America/Barbados,"13.140969,-59.60947",1/1/2025,1/31/2025,83,15,8156.76,1006
+MP-076,Millennium Heights,St. Thomas,America/Barbados,"13.150460382201004,-59.61058751275202",1/1/2025,1/31/2025,13,3,420.27,154.1
+MP-Sunlink,SunLink,Christ Church,America/Barbados,"13.074599,-59.512074",1/1/2025,1/31/2025,0,0,0,0
+MP-005,Coverley - Food Court,Christ Church,America/Barbados,"13.0845981581339,-59.5015983027884",1/1/2025,1/31/2025,31,8,90,11.1
+MP-081,Barbados Light & Power - Spring Garden Car PArk,St. Michael,America/Barbados,"13.125772222570074,-59.63226024746143",1/1/2025,1/31/2025,1,1,112.09,41.1
+MP-052,The Crane Resort,St. Philip,America/Barbados,"13.10597,-59.44521",1/1/2025,1/31/2025,2,2,60.55,22.2
+MP-002,Limegrove,St. James,America/Barbados,"13.1865238988325,-59.6359529309767",1/1/2025,1/31/2025,90,31,4607.73,1689.5
+MP-013,Six Roads -Emerald City,St. Philip,America/Barbados,"13.1165433,-59.4761632",1/1/2025,1/31/2025,28,11,1548.65,191
+MP-022,Megapower Workshop,Christ Church,America/Barbados,"13.0668347,-59.5270605",2/1/2025,2/28/2025,0,0,0,0
+MP-007,BLPC Garrison,St. Thomas,America/Barbados,"13.0813384907889,-59.6077824021418",2/1/2025,2/28/2025,5,3,266.45,97.7
+MP-059,Millenium Heights 2,St. Thomas,America/Barbados,"13.15199,-59.60893",2/1/2025,2/28/2025,9,2,1431.08,176.5
+MP-063,Port St Charles (Pier One Restaurant),St. Peter,America/Barbados,"13.264145,-59.644266",2/1/2025,2/28/2025,48,9,6245.68,770.3
+MP-058,One Welches Ltd,St. Thomas,America/Barbados,"13.155162,-59.613737",2/1/2025,2/28/2025,41,4,2797.3,345
+MP-051,Barbados Golf Club,Christ Church,America/Barbados,"13.0729306,-59.5267344",2/1/2025,2/28/2025,18,6,935.68,115.4
+MP-014,One Haggatt Hall,St. Michael,America/Barbados,"13.1053216,-59.5822663",2/1/2025,2/28/2025,21,3,2877.57,354.9
+MP-024,The Walk,St. Thomas,America/Barbados,"13.155103143456,-59.6113313021413",2/1/2025,2/28/2025,70,23,4348.64,1898
+MP-010,City Center Mall and Carpark,St. Michael,America/Barbados,"13.098217704116,-59.6175783039002",2/1/2025,2/28/2025,17,6,2275.95,280.7
+MP-70,Megapower Office ,St. Michael,America/Barbados,"13.093006,-59.586553",2/1/2025,2/28/2025,0,0,0,0
+MP-050,Cotton Bay (Freights Bay),Christ Church,America/Barbados,"13.05355,-59.53499",2/1/2025,2/28/2025,11,6,3146.76,388.1
+MP-006,The Condominiums at Palm Beach,Christ Church,America/Barbados,"13.0758939907924,-59.6029012733064",2/1/2025,2/28/2025,5,1,1639.46,202.2
+MP-065,Cedar Court,St. Michael,America/Barbados,"13.09375,-59.585849",2/1/2025,2/28/2025,42,12,5691.86,702
+MP-003,Speightstown Esplanade,St. Peter,America/Barbados,"13.2508718611134,-59.6442456867991",2/1/2025,2/28/2025,11,8,896.76,110.6
+MP-020,The Walk,St. Thomas,America/Barbados,"13.155103143456,-59.6113313021413",2/1/2025,2/28/2025,0,0,0,0
+MP-061,Sheraton Center Barbados,Christ Church,America/Barbados,"13.0828117900741,-59.5666073309772",2/1/2025,2/28/2025,71,25,9269.19,1143.2
+MP-004,Millennium Heights,St. Thomas,America/Barbados,"13.150460382201004,-59.61058751275202",2/1/2025,2/28/2025,20,5,4172.43,514.6
+MP-073,Melbourne Inn,Christ Church,America/Barbados,"13.0660298,-59.5649616",2/1/2025,2/28/2025,14,4,1148.45,421.1
+MP-40,Barbados Yacht Club,St. Michael,America/Barbados,"13.083583,-59.608611",2/1/2025,2/28/2025,8,5,1323.24,163.2
+MP-075,Megapower Office ,St. Michael,America/Barbados,"13.093006,-59.586553",2/1/2025,2/28/2025,33,9,1955.18,716.9
+MP-015,Sky Mall,St. Michael,America/Barbados,"13.105389,-59.579667",2/1/2025,2/28/2025,51,18,5025.41,619.8
+MP-055,The Walk,St. Thomas,America/Barbados,"13.155103143456,-59.6113313021413",2/1/2025,2/28/2025,15,9,807.57,99.6
+MP-021,Limegrove,St. James,America/Barbados,"13.1865238988325,-59.6359529309767",2/1/2025,2/28/2025,19,8,140.84,234.7
+MP-080,The Mill Barbados (Millhouse),St. Thomas,America/Barbados,"13.147281,-59.593348",2/1/2025,2/28/2025,17,6,475.64,174.4
+MP-082,One Welches Ltd,St. Thomas,America/Barbados,"13.155162,-59.613737",2/1/2025,2/28/2025,14,2,38.73,14.2
+MP-054,One Barbados Warrens,St. Michael,America/Barbados,"13.140969,-59.60947",2/1/2025,2/28/2025,87,14,6415.92,791.3
+MP-076,Millennium Heights,St. Thomas,America/Barbados,"13.150460382201004,-59.61058751275202",2/1/2025,2/28/2025,11,3,552.55,202.6
+MP-Sunlink,SunLink,Christ Church,America/Barbados,"13.074599,-59.512074",2/1/2025,2/28/2025,0,0,0,0
+MP-005,Coverley - Food Court,Christ Church,America/Barbados,"13.0845981581339,-59.5015983027884",2/1/2025,2/28/2025,16,9,1080.81,133.3
+MP-052,The Crane Resort,St. Philip,America/Barbados,"13.10597,-59.44521",2/1/2025,2/28/2025,2,1,30,11
+MP-081,Barbados Light & Power - Spring Garden Car PArk,St. Michael,America/Barbados,"13.125772222570074,-59.63226024746143",2/1/2025,2/28/2025,0,0,0,0
+MP-002,Limegrove,St. James,America/Barbados,"13.1865238988325,-59.6359529309767",2/1/2025,2/28/2025,95,34,4293.55,1574.3
+MP-013,Six Roads -Emerald City,St. Philip,America/Barbados,"13.1165433,-59.4761632",2/1/2025,2/28/2025,16,10,879.73,108.5
+MP-022,Megapower Workshop,Christ Church,America/Barbados,"13.0668347,-59.5270605",3/1/2025,3/31/2025,0,0,0,0
+MP-007,BLPC Garrison,St. Thomas,America/Barbados,"13.0813384907889,-59.6077824021418",3/1/2025,3/31/2025,4,3,144.27,52.9
+MP-100,Megapower Lower Estate,St. Michael,America/Barbados,"13.133618,-59.580635",3/1/2025,3/31/2025,0,0,0,0
+MP-059,Millenium Heights 2,St. Thomas,America/Barbados,"13.15199,-59.60893",3/1/2025,3/31/2025,10,2,1922.43,237.1
+MP-063,Port St Charles (Pier One Restaurant),St. Peter,America/Barbados,"13.264145,-59.644266",3/1/2025,3/31/2025,23,8,3728.11,459.8
+MP-058,One Welches Ltd,St. Thomas,America/Barbados,"13.155162,-59.613737",3/1/2025,3/31/2025,39,5,2839.46,350.2
+MP-051,Barbados Golf Club,Christ Church,America/Barbados,"13.0729306,-59.5267344",3/1/2025,3/31/2025,10,5,403.78,49.8
+MP-074,One Barbados Warrens,St. Michael,America/Barbados,"13.140969,-59.60947",3/1/2025,3/31/2025,17,8,523.09,191.8
+MP-014,One Haggatt Hall,St. Michael,America/Barbados,"13.1053216,-59.5822663",3/1/2025,3/31/2025,11,3,2177.03,268.5
+MP-024,The Walk,St. Thomas,America/Barbados,"13.155103143456,-59.6113313021413",3/1/2025,3/31/2025,107,39,6380.55,2758.6
+MP-010,City Center Mall and Carpark,St. Michael,America/Barbados,"13.098217704116,-59.6175783039002",3/1/2025,3/31/2025,14,5,1818.65,224.3
+MP-70,Megapower Office ,St. Michael,America/Barbados,"13.093006,-59.586553",3/1/2025,3/31/2025,0,0,0,0
+MP-006,The Condominiums at Palm Beach,Christ Church,America/Barbados,"13.0758939907924,-59.6029012733064",3/1/2025,3/31/2025,8,3,2732.43,337
+MP-050,Cotton Bay (Freights Bay),Christ Church,America/Barbados,"13.05355,-59.53499",3/1/2025,3/31/2025,13,7,4677.57,576.9
+MP-003,Speightstown Esplanade,St. Peter,America/Barbados,"13.2508718611134,-59.6442456867991",3/1/2025,3/31/2025,8,5,1192.7,147.1
+MP-065,Cedar Court,St. Michael,America/Barbados,"13.09375,-59.585849",3/1/2025,3/31/2025,10,4,1872.16,230.9
+MP-020,The Walk,St. Thomas,America/Barbados,"13.155103143456,-59.6113313021413",3/1/2025,3/31/2025,0,0,0,0
+MP-061,Sheraton Center Barbados,Christ Church,America/Barbados,"13.0828117900741,-59.5666073309772",3/1/2025,3/31/2025,81,23,10295.68,1269.8
+MP-004,Millennium Heights,St. Thomas,America/Barbados,"13.150460382201004,-59.61058751275202",3/1/2025,3/31/2025,17,5,3511.62,433.1
+MP-073,Melbourne Inn,Christ Church,America/Barbados,"13.0660298,-59.5649616",3/1/2025,3/31/2025,20,6,1094.63,401.5
+MP-40,Barbados Yacht Club,St. Michael,America/Barbados,"13.083583,-59.608611",3/1/2025,3/31/2025,40,7,2374.6,292.9
+MP-075,Megapower Office ,St. Michael,America/Barbados,"13.093006,-59.586553",3/1/2025,3/31/2025,15,4,934.36,342.6
+MP-015,Sky Mall,St. Michael,America/Barbados,"13.105389,-59.579667",3/1/2025,3/31/2025,79,19,7628.11,940.8
+MP-055,The Walk,St. Thomas,America/Barbados,"13.155103143456,-59.6113313021413",3/1/2025,3/31/2025,26,18,1652.95,203.9
+MP-021,Limegrove,St. James,America/Barbados,"13.1865238988325,-59.6359529309767",3/1/2025,3/31/2025,22,8,110.87,185.2
+MP-080,The Mill Barbados (Millhouse),St. Thomas,America/Barbados,"13.147281,-59.593348",3/1/2025,3/31/2025,17,5,1190.18,436.4
+MP-082,One Welches Ltd,St. Thomas,America/Barbados,"13.155162,-59.613737",3/1/2025,3/31/2025,19,3,37.91,13.9
+MP-054,One Barbados Warrens,St. Michael,America/Barbados,"13.140969,-59.60947",3/1/2025,3/31/2025,75,17,6019.46,742.4
+MP-076,Millennium Heights,St. Thomas,America/Barbados,"13.150460382201004,-59.61058751275202",3/1/2025,3/31/2025,8,1,523.64,192
+MP-Sunlink,SunLink,Christ Church,America/Barbados,"13.074599,-59.512074",3/1/2025,3/31/2025,0,0,0,0
+MP-005,Coverley - Food Court,Christ Church,America/Barbados,"13.0845981581339,-59.5015983027884",3/1/2025,3/31/2025,23,9,1406.76,173.5
+MP-081,Barbados Light & Power - Spring Garden Car PArk,St. Michael,America/Barbados,"13.125772222570074,-59.63226024746143",3/1/2025,3/31/2025,1,1,59.45,21.8
+MP-052,The Crane Resort,St. Philip,America/Barbados,"13.10597,-59.44521",3/1/2025,3/31/2025,4,3,244.09,89.5
+MP-002,Limegrove,St. James,America/Barbados,"13.1865238988325,-59.6359529309767",3/1/2025,3/31/2025,73,37,4344.82,1593.1
+MP-013,Six Roads -Emerald City,St. Philip,America/Barbados,"13.1165433,-59.4761632",3/1/2025,3/31/2025,31,11,1857.57,229.1
+MP-022,Megapower Workshop,Christ Church,America/Barbados,"13.0668347,-59.5270605",4/1/2025,4/30/2025,0,0,0,0
+MP-007,BLPC Garrison,St. Thomas,America/Barbados,"13.0813384907889,-59.6077824021418",4/1/2025,4/30/2025,0,0,0,0
+MP-100,Megapower Lower Estate,St. Michael,America/Barbados,"13.133618,-59.580635",4/1/2025,4/30/2025,0,0,0,0
+MP-059,Millenium Heights 2,St. Thomas,America/Barbados,"13.15199,-59.60893",4/1/2025,4/30/2025,8,3,1730.27,213.4
+MP-063,Port St Charles (Pier One Restaurant),St. Peter,America/Barbados,"13.264145,-59.644266",4/1/2025,4/30/2025,20,5,2781.89,343.1
+MP-058,One Welches Ltd,St. Thomas,America/Barbados,"13.155162,-59.613737",4/1/2025,4/30/2025,29,4,2487.57,306.8
+MP-051,Barbados Golf Club,Christ Church,America/Barbados,"13.0729306,-59.5267344",4/1/2025,4/30/2025,13,6,2421.08,298.6
+MP-074,One Barbados Warrens,St. Michael,America/Barbados,"13.140969,-59.60947",4/1/2025,4/30/2025,66,12,2155.36,790.3
+MP-014,One Haggatt Hall,St. Michael,America/Barbados,"13.1053216,-59.5822663",4/1/2025,4/30/2025,8,3,771.08,95.1
+MP-024,The Walk,St. Thomas,America/Barbados,"13.155103143456,-59.6113313021413",4/1/2025,4/30/2025,133,44,7079.44,3092.8
+MP-010,City Center Mall and Carpark,St. Michael,America/Barbados,"13.098217704116,-59.6175783039002",4/1/2025,4/30/2025,14,6,2143.78,264.4
+MP-006,The Condominiums at Palm Beach,Christ Church,America/Barbados,"13.0758939907924,-59.6029012733064",4/1/2025,4/30/2025,8,3,1341.04,165.4
+MP-050,Cotton Bay (Freights Bay),Christ Church,America/Barbados,"13.05355,-59.53499",4/1/2025,4/30/2025,5,3,3032.43,374
+MP-003,Speightstown Esplanade,St. Peter,America/Barbados,"13.2508718611134,-59.6442456867991",4/1/2025,4/30/2025,7,3,786.49,97
+MP-065,Cedar Court,St. Michael,America/Barbados,"13.09375,-59.585849",4/1/2025,4/30/2025,0,0,0,0
+MP-020,The Walk,St. Thomas,America/Barbados,"13.155103143456,-59.6113313021413",4/1/2025,4/30/2025,0,0,0,0
+MP-061,Sheraton Center Barbados,Christ Church,America/Barbados,"13.0828117900741,-59.5666073309772",4/1/2025,4/30/2025,79,23,9488.91,1170.3
+MP-004,Millennium Heights,St. Thomas,America/Barbados,"13.150460382201004,-59.61058751275202",4/1/2025,4/30/2025,17,3,2663.51,328.5
+MP-073,Melbourne Inn,Christ Church,America/Barbados,"13.0660298,-59.5649616",4/1/2025,4/30/2025,19,4,1132.36,415.2
+MP-40,Barbados Yacht Club,St. Michael,America/Barbados,"13.083583,-59.608611",4/1/2025,4/30/2025,28,5,3374.59,416.2
+MP-075,Megapower Office ,St. Michael,America/Barbados,"13.093006,-59.586553",4/1/2025,4/30/2025,12,4,300.55,110.2
+MP-015,Sky Mall,St. Michael,America/Barbados,"13.105389,-59.579667",4/1/2025,4/30/2025,54,21,4952.43,610.8
+MP-055,The Walk,St. Thomas,America/Barbados,"13.155103143456,-59.6113313021413",4/1/2025,4/30/2025,17,12,1371.76,169.2
+MP-021,Limegrove,St. James,America/Barbados,"13.1865238988325,-59.6359529309767",4/1/2025,4/30/2025,24,11,136.69,242.1
+MP-080,The Mill Barbados (Millhouse),St. Thomas,America/Barbados,"13.147281,-59.593348",4/1/2025,4/30/2025,5,4,113.45,41.6
+MP-054,W Mall Welches St.Thomas ,St. Thomas,America/Barbados,"13.15586,-59.6141",4/1/2025,4/30/2025,0,0,0,0
+MP-082,One Welches Ltd,St. Thomas,America/Barbados,"13.155162,-59.613737",4/1/2025,4/30/2025,15,2,14.18,5.2
+MP-054,Megapower Lower Estate,St. Michael,America/Barbados,"13.133618,-59.580635",4/1/2025,4/30/2025,20,2,668.11,82.4
+MP-076,Millennium Heights,St. Thomas,America/Barbados,"13.150460382201004,-59.61058751275202",4/1/2025,4/30/2025,12,3,491.18,180.1
+MP-Sunlink,SunLink,Christ Church,America/Barbados,"13.074599,-59.512074",4/1/2025,4/30/2025,0,0,0,0
+MP-005,Coverley - Food Court,Christ Church,America/Barbados,"13.0845981581339,-59.5015983027884",4/1/2025,4/30/2025,11,7,462.16,57
+MP-073,W Mall Welches St.Thomas ,St. Thomas,America/Barbados,"13.15586,-59.6141",4/1/2025,4/30/2025,0,0,0,0
+MP-052,The Crane Resort,St. Philip,America/Barbados,"13.10597,-59.44521",4/1/2025,4/30/2025,2,2,270.55,99.2
+MP-081,Barbados Light & Power - Spring Garden Car PArk,St. Michael,America/Barbados,"13.125772222570074,-59.63226024746143",4/1/2025,4/30/2025,1,1,17.45,6.4
+MP-002,Limegrove,St. James,America/Barbados,"13.1865238988325,-59.6359529309767",4/1/2025,4/30/2025,64,24,3805.91,1395.5
+MP-013,Six Roads -Emerald City,St. Philip,America/Barbados,"13.1165433,-59.4761632",4/1/2025,4/30/2025,25,7,1384.05,170.7
+MP-022,Megapower Workshop,Christ Church,America/Barbados,"13.0668347,-59.5270605",5/1/2025,5/31/2025,0,0,0,0
+MP-007,BLPC Garrison,St. Thomas,America/Barbados,"13.0813384907889,-59.6077824021418",5/1/2025,5/31/2025,4,3,231.82,85
+MP-100,Megapower Lower Estate,St. Michael,America/Barbados,"13.133618,-59.580635",5/1/2025,5/31/2025,0,0,0,0
+MP-023,W Mall Welches St.Thomas ,St. Thomas,America/Barbados,"13.15586,-59.6141",5/1/2025,5/31/2025,0,0,0,0
+MP-059,Millenium Heights 2,St. Thomas,America/Barbados,"13.15199,-59.60893",5/1/2025,5/31/2025,8,2,1710.81,211
+MP-063,Port St Charles (Pier One Restaurant),St. Peter,America/Barbados,"13.264145,-59.644266",5/1/2025,5/31/2025,22,6,2836.22,349.8
+MP-058,One Welches Ltd,St. Thomas,America/Barbados,"13.155162,-59.613737",5/1/2025,5/31/2025,27,6,1574.59,194.2
+MP-051,Barbados Golf Club,Christ Church,America/Barbados,"13.0729306,-59.5267344",5/1/2025,5/31/2025,8,6,1395.41,172.1
+MP-054,W Mall Welches St.Thomas ,St. Thomas,America/Barbados,"13.15586,-59.6141",5/1/2025,5/31/2025,2,1,7.36,2.7
+MP-074,One Barbados Warrens,St. Michael,America/Barbados,"13.140969,-59.60947",5/1/2025,5/31/2025,94,15,2631,964.7
+MP-014,One Haggatt Hall,St. Michael,America/Barbados,"13.1053216,-59.5822663",5/1/2025,5/31/2025,6,1,945.41,116.6
+MP-024,The Walk,St. Thomas,America/Barbados,"13.155103143456,-59.6113313021413",5/1/2025,5/31/2025,108,33,6865.23,3003.7
+MP-010,City Center Mall and Carpark,St. Michael,America/Barbados,"13.098217704116,-59.6175783039002",5/1/2025,5/31/2025,15,5,2148.65,265
+MP-006,The Condominiums at Palm Beach,Christ Church,America/Barbados,"13.0758939907924,-59.6029012733064",5/1/2025,5/31/2025,16,3,3399.73,419.3
+MP-050,Cotton Bay (Freights Bay),Christ Church,America/Barbados,"13.05355,-59.53499",5/1/2025,5/31/2025,5,3,1915.14,236.2
+MP-003,Speightstown Esplanade,St. Peter,America/Barbados,"13.2508718611134,-59.6442456867991",5/1/2025,5/31/2025,13,7,1031.35,127.2
+MP-065,Cedar Court,St. Michael,America/Barbados,"13.09375,-59.585849",5/1/2025,5/31/2025,0,0,0,0
+MP-020,The Walk,St. Thomas,America/Barbados,"13.155103143456,-59.6113313021413",5/1/2025,5/31/2025,0,0,0,0
+MP-061,Sheraton Center Barbados,Christ Church,America/Barbados,"13.0828117900741,-59.5666073309772",5/1/2025,5/31/2025,80,23,11065.95,1364.8
+MP-004,Millennium Heights,St. Thomas,America/Barbados,"13.150460382201004,-59.61058751275202",5/1/2025,5/31/2025,3,2,586.22,72.3
+MP-1000,Melbourne Inn,Christ Church,America/Barbados,"13.0660298,-59.5649616",5/1/2025,5/31/2025,9,3,474.82,174.1
+MP-40,Barbados Yacht Club,St. Michael,America/Barbados,"13.083583,-59.608611",5/1/2025,5/31/2025,39,8,2199.73,271.3
+MP-075,Megapower Office ,St. Michael,America/Barbados,"13.093006,-59.586553",5/1/2025,5/31/2025,4,3,441.27,161.8
+MP-015,Sky Mall,St. Michael,America/Barbados,"13.105389,-59.579667",5/1/2025,5/31/2025,60,22,6471.08,798.1
+MP-055,The Walk,St. Thomas,America/Barbados,"13.155103143456,-59.6113313021413",5/1/2025,5/31/2025,25,19,1632.16,201.3
+MP-021,Limegrove,St. James,America/Barbados,"13.1865238988325,-59.6359529309767",5/1/2025,5/31/2025,26,11,169.64,282.7
+MP-080,The Mill Barbados (Millhouse),St. Thomas,America/Barbados,"13.147281,-59.593348",5/1/2025,5/31/2025,9,7,156.55,57.4
+MP-082,One Welches Ltd,St. Thomas,America/Barbados,"13.155162,-59.613737",5/1/2025,5/31/2025,28,4,113.45,41.6
+MP-1001,Megapower Lower Estate,St. Michael,America/Barbados,"13.133618,-59.580635",5/1/2025,5/31/2025,15,4,1761.08,217.2
+MP-076,Millennium Heights,St. Thomas,America/Barbados,"13.150460382201004,-59.61058751275202",5/1/2025,5/31/2025,11,1,692.73,254
+MP-Sunlink,SunLink,Christ Church,America/Barbados,"13.074599,-59.512074",5/1/2025,5/31/2025,0,0,0,0
+MP-005,Coverley - Food Court,Christ Church,America/Barbados,"13.0845981581339,-59.5015983027884",5/1/2025,5/31/2025,16,10,1436.76,177.2
+MP-073,W Mall Welches St.Thomas ,St. Thomas,America/Barbados,"13.15586,-59.6141",5/1/2025,5/31/2025,1,1,2.73,1
+MP-052,The Crane Resort,St. Philip,America/Barbados,"13.10597,-59.44521",5/1/2025,5/31/2025,4,1,372,136.4
+MP-081,Barbados Light & Power - Spring Garden Car PArk,St. Michael,America/Barbados,"13.125772222570074,-59.63226024746143",5/1/2025,5/31/2025,0,0,0,0
+MP-002,Limegrove,St. James,America/Barbados,"13.1865238988325,-59.6359529309767",5/1/2025,5/31/2025,82,30,3799.09,1393
+MP-013,Six Roads -Emerald City,St. Philip,America/Barbados,"13.1165433,-59.4761632",5/1/2025,5/31/2025,28,8,1614.32,199.1
+MP-022,Megapower Workshop,Christ Church,America/Barbados,"13.0668347,-59.5270605",6/1/2025,6/30/2025,0,0,0,0
+MP-007,BLPC Garrison,St. Thomas,America/Barbados,"13.0813384907889,-59.6077824021418",6/1/2025,6/30/2025,10,7,579,212.3
+MP-100,Megapower Lower Estate,St. Michael,America/Barbados,"13.133618,-59.580635",6/1/2025,6/30/2025,0,0,0,0
+MP-023,W Mall Welches St.Thomas ,St. Thomas,America/Barbados,"13.15586,-59.6141",6/1/2025,6/30/2025,1,1,63.12,26.3
+MP-059,Millenium Heights 2,St. Thomas,America/Barbados,"13.15199,-59.60893",6/1/2025,6/30/2025,11,3,2380.54,293.6
+MP-063,Port St Charles (Pier One Restaurant),St. Peter,America/Barbados,"13.264145,-59.644266",6/1/2025,6/30/2025,45,8,4333.78,534.5
+MP-058,One Welches Ltd,St. Thomas,America/Barbados,"13.155162,-59.613737",6/1/2025,6/30/2025,27,4,1584.86,195.6
+MP-051,Barbados Golf Club,Christ Church,America/Barbados,"13.0729306,-59.5267344",6/1/2025,6/30/2025,12,8,2417.82,298.2
+MP-054,W Mall Welches St.Thomas ,St. Thomas,America/Barbados,"13.15586,-59.6141",6/1/2025,6/30/2025,3,3,112.09,41.1
+MP-074,One Barbados Warrens,St. Michael,America/Barbados,"13.140969,-59.60947",6/1/2025,6/30/2025,56,16,2027.18,743.3
+MP-014,One Haggatt Hall,St. Michael,America/Barbados,"13.1053216,-59.5822663",6/1/2025,6/30/2025,13,4,3248.92,400.7
+MP-024,The Walk,St. Thomas,America/Barbados,"13.155103143456,-59.6113313021413",6/1/2025,6/30/2025,130,45,7779.85,3395.6
+MP-010,City Center Mall and Carpark,St. Michael,America/Barbados,"13.098217704116,-59.6175783039002",6/1/2025,6/30/2025,14,7,2098.38,258.8
+MP-006,The Condominiums at Palm Beach,Christ Church,America/Barbados,"13.0758939907924,-59.6029012733064",6/1/2025,6/30/2025,17,3,3419.66,421.8
+MP-050,Cotton Bay (Freights Bay),Christ Church,America/Barbados,"13.05355,-59.53499",6/1/2025,6/30/2025,7,4,1949.19,240.4
+MP-003,Speightstown Esplanade,St. Peter,America/Barbados,"13.2508718611134,-59.6442456867991",6/1/2025,6/30/2025,1,1,248.92,30.7
+MP-065,Cedar Court,St. Michael,America/Barbados,"13.09375,-59.585849",6/1/2025,6/30/2025,0,0,0,0
+MP-020,The Walk,St. Thomas,America/Barbados,"13.155103143456,-59.6113313021413",6/1/2025,6/30/2025,0,0,0,0
+MP-004,Millennium Heights,St. Thomas,America/Barbados,"13.150460382201004,-59.61058751275202",6/1/2025,6/30/2025,12,3,1827.57,225.4
+MP-061,Sheraton Center Barbados,Christ Church,America/Barbados,"13.0828117900741,-59.5666073309772",6/1/2025,6/30/2025,73,23,11558.92,1425.6
+MP-1000,Melbourne Inn,Christ Church,America/Barbados,"13.0660298,-59.5649616",6/1/2025,6/30/2025,37,5,1934.45,709.3
+MP-40,Barbados Yacht Club,St. Michael,America/Barbados,"13.083583,-59.608611",6/1/2025,6/30/2025,9,4,1191.89,147
+MP-075,Megapower Office ,St. Michael,America/Barbados,"13.093006,-59.586553",6/1/2025,6/30/2025,0,0,0,0
+MP-015,Sky Mall,St. Michael,America/Barbados,"13.105389,-59.579667",6/1/2025,6/30/2025,56,20,5955.53,734.6
+MP-055,The Walk,St. Thomas,America/Barbados,"13.155103143456,-59.6113313021413",6/1/2025,6/30/2025,20,12,2316.49,285.7
+MP-021,Limegrove,St. James,America/Barbados,"13.1865238988325,-59.6359529309767",6/1/2025,6/30/2025,22,7,105.67,176.1
+MP-080,The Mill Barbados (Millhouse),St. Thomas,America/Barbados,"13.147281,-59.593348",6/1/2025,6/30/2025,8,7,305.45,112
+MP-082,One Welches Ltd,St. Thomas,America/Barbados,"13.155162,-59.613737",6/1/2025,6/30/2025,7,3,271.09,99.4
+MP-1001,Megapower Lower Estate,St. Michael,America/Barbados,"13.133618,-59.580635",6/1/2025,6/30/2025,9,5,1015.95,125.3
+MP-076,Millennium Heights,St. Thomas,America/Barbados,"13.150460382201004,-59.61058751275202",6/1/2025,6/30/2025,29,4,753.82,276.4
+MP-Sunlink,SunLink,Christ Church,America/Barbados,"13.074599,-59.512074",6/1/2025,6/30/2025,0,0,0,0
+MP-005,Coverley - Food Court,Christ Church,America/Barbados,"13.0845981581339,-59.5015983027884",6/1/2025,6/30/2025,28,13,1136.76,140.2
+MP-073,W Mall Welches St.Thomas ,St. Thomas,America/Barbados,"13.15586,-59.6141",6/1/2025,6/30/2025,4,4,84,30.8
+MP-052,The Crane Resort,St. Philip,America/Barbados,"13.10597,-59.44521",6/1/2025,6/30/2025,6,3,130.09,47.7
+MP-081,Barbados Light & Power - Spring Garden Car PArk,St. Michael,America/Barbados,"13.125772222570074,-59.63226024746143",6/1/2025,6/30/2025,2,2,146.45,53.7
+MP-002,Limegrove,St. James,America/Barbados,"13.1865238988325,-59.6359529309767",6/1/2025,6/30/2025,98,30,5643.75,2069.4
+MP-013,Six Roads -Emerald City,St. Philip,America/Barbados,"13.1165433,-59.4761632",6/1/2025,6/30/2025,18,8,906.49,111.8
+MP-022,Megapower Workshop,Christ Church,America/Barbados,"13.0668347,-59.5270605",7/1/2025,7/31/2025,0,0,0,0
+MP-007,BLPC Garrison,St. Thomas,America/Barbados,"13.0813384907889,-59.6077824021418",7/1/2025,7/31/2025,16,10,923.18,338.5
+MP-100,Megapower Lower Estate,St. Michael,America/Barbados,"13.133618,-59.580635",7/1/2025,7/31/2025,0,0,0,0
+MP-023,W Mall Welches St.Thomas ,St. Thomas,America/Barbados,"13.15586,-59.6141",7/1/2025,7/31/2025,33,20,1130.68,519.3
+MP-059,Millenium Heights 2,St. Thomas,America/Barbados,"13.15199,-59.60893",7/1/2025,7/31/2025,12,3,2563.78,316.2
+MP-063,Port St Charles (Pier One Restaurant),St. Peter,America/Barbados,"13.264145,-59.644266",7/1/2025,7/31/2025,27,7,2815.14,347.2
+MP-058,One Welches Ltd,St. Thomas,America/Barbados,"13.155162,-59.613737",7/1/2025,7/31/2025,34,3,2074.86,255.9
+MP-051,Barbados Golf Club,Christ Church,America/Barbados,"13.0729306,-59.5267344",7/1/2025,7/31/2025,10,6,1463.51,180.5
+MP-054,W Mall Welches St.Thomas ,St. Thomas,America/Barbados,"13.15586,-59.6141",7/1/2025,7/31/2025,4,4,57.55,21.1
+MP-074,One Barbados Warrens,St. Michael,America/Barbados,"13.140969,-59.60947",7/1/2025,7/31/2025,59,12,2608.64,956.5
+MP-014,One Haggatt Hall,St. Michael,America/Barbados,"13.1053216,-59.5822663",7/1/2025,7/31/2025,9,1,1509.73,186.2
+MP-024,The Walk,St. Thomas,America/Barbados,"13.155103143456,-59.6113313021413",7/1/2025,7/31/2025,195,51,13009.86,5660.4
+MP-010,City Center Mall and Carpark,St. Michael,America/Barbados,"13.098217704116,-59.6175783039002",7/1/2025,7/31/2025,22,8,3142.7,387.6
+MP-006,The Condominiums at Palm Beach,Christ Church,America/Barbados,"13.0758939907924,-59.6029012733064",7/1/2025,7/31/2025,7,3,810.81,100
+MP-050,Cotton Bay (Freights Bay),Christ Church,America/Barbados,"13.05355,-59.53499",7/1/2025,7/31/2025,2,2,891.09,110.2
+MP-003,Speightstown Esplanade,St. Peter,America/Barbados,"13.2508718611134,-59.6442456867991",7/1/2025,7/31/2025,1,1,134.59,16.6
+MP-065,Cedar Court,St. Michael,America/Barbados,"13.09375,-59.585849",7/1/2025,7/31/2025,0,0,0,0
+MP-020,The Walk,St. Thomas,America/Barbados,"13.155103143456,-59.6113313021413",7/1/2025,7/31/2025,0,0,0,0
+MP-061,Sheraton Center Barbados,Christ Church,America/Barbados,"13.0828117900741,-59.5666073309772",7/1/2025,7/31/2025,78,24,8204.59,1011.9
+MP-004,Millennium Heights,St. Thomas,America/Barbados,"13.150460382201004,-59.61058751275202",7/1/2025,7/31/2025,17,4,3432.16,423.3
+MP-1000,Melbourne Inn,Christ Church,America/Barbados,"13.0660298,-59.5649616",7/1/2025,7/31/2025,12,4,608.73,223.2
+MP-40,Barbados Yacht Club,St. Michael,America/Barbados,"13.083583,-59.608611",7/1/2025,7/31/2025,29,6,2367.57,292
+MP-075,Megapower Office ,St. Michael,America/Barbados,"13.093006,-59.586553",7/1/2025,7/31/2025,0,0,0,0
+MP-055,The Walk,St. Thomas,America/Barbados,"13.155103143456,-59.6113313021413",7/1/2025,7/31/2025,53,21,4477.3,552.2
+MP-015,Sky Mall,St. Michael,America/Barbados,"13.105389,-59.579667",7/1/2025,7/31/2025,56,18,6242.43,769.9
+MP-021,Limegrove,St. James,America/Barbados,"13.1865238988325,-59.6359529309767",7/1/2025,7/31/2025,5,2,20.94,34.9
+MP-080,The Mill Barbados (Millhouse),St. Thomas,America/Barbados,"13.147281,-59.593348",7/1/2025,7/31/2025,5,5,74.73,27.4
+MP-082,One Welches Ltd,St. Thomas,America/Barbados,"13.155162,-59.613737",7/1/2025,7/31/2025,8,4,514.91,188.8
+MP-1001,Megapower Lower Estate,St. Michael,America/Barbados,"13.133618,-59.580635",7/1/2025,7/31/2025,29,4,5040.81,621.7
+MP-076,Millennium Heights,St. Thomas,America/Barbados,"13.150460382201004,-59.61058751275202",7/1/2025,7/31/2025,16,3,822.82,301.7
+MP-Sunlink,SunLink,Christ Church,America/Barbados,"13.074599,-59.512074",7/1/2025,7/31/2025,0,0,0,0
+MP-005,Coverley - Food Court,Christ Church,America/Barbados,"13.0845981581339,-59.5015983027884",7/1/2025,7/31/2025,70,17,2970,366.3
+MP-073,W Mall Welches St.Thomas ,St. Thomas,America/Barbados,"13.15586,-59.6141",7/1/2025,7/31/2025,3,2,19.09,7
+MP-081,Barbados Light & Power - Spring Garden Car PArk,St. Michael,America/Barbados,"13.125772222570074,-59.63226024746143",7/1/2025,7/31/2025,8,2,360.27,132.1
+MP-052,The Crane Resort,St. Philip,America/Barbados,"13.10597,-59.44521",7/1/2025,7/31/2025,11,2,689.18,252.7
+MP-002,Limegrove,St. James,America/Barbados,"13.1865238988325,-59.6359529309767",7/1/2025,7/31/2025,118,23,4405.09,1615.2
+MP-110,Government House,St. Michael,America/Barbados,"13.1012,-59.5996",7/1/2025,7/31/2025,0,0,0,0
+MP-013,Six Roads -Emerald City,St. Philip,America/Barbados,"13.1165433,-59.4761632",7/1/2025,7/31/2025,14,6,1484.59,183.1
+MP-022,Megapower Workshop,Christ Church,America/Barbados,"13.0668347,-59.5270605",8/1/2025,8/31/2025,0,0,0,0
+MP-007,BLPC Garrison,St. Thomas,America/Barbados,"13.0813384907889,-59.6077824021418",8/1/2025,8/31/2025,17,6,952.36,349.2
+MP-100,Megapower Lower Estate,St. Michael,America/Barbados,"13.133618,-59.580635",8/1/2025,8/31/2025,0,0,0,0
+MP-023,W Mall Welches St.Thomas ,St. Thomas,America/Barbados,"13.15586,-59.6141",8/1/2025,8/31/2025,79,28,3154.38,1338.6
+MP-059,Millenium Heights 2,St. Thomas,America/Barbados,"13.15199,-59.60893",8/1/2025,8/31/2025,13,3,2004.32,247.2
+MP-063,Port St Charles (Pier One Restaurant),St. Peter,America/Barbados,"13.264145,-59.644266",8/1/2025,8/31/2025,20,4,2103.24,259.4
+MP-058,One Welches Ltd,St. Thomas,America/Barbados,"13.155162,-59.613737",8/1/2025,8/31/2025,44,10,4334.33,534.7
+MP-021,Limegrove,St. James,America/Barbados,"13.1865238988325,-59.6359529309767",8/1/2025,8/31/2025,0,0,0,0
+MP-051,Barbados Golf Club,Christ Church,America/Barbados,"13.0729306,-59.5267344",8/1/2025,8/31/2025,15,5,4491.08,553.9
+MP-054,W Mall Welches St.Thomas ,St. Thomas,America/Barbados,"13.15586,-59.6141",8/1/2025,8/31/2025,9,8,259.36,95.1
+MP-074,One Barbados Warrens,St. Michael,America/Barbados,"13.140969,-59.60947",8/1/2025,8/31/2025,63,17,3475.56,1274.4
+MP-014,One Haggatt Hall,St. Michael,America/Barbados,"13.1053216,-59.5822663",8/1/2025,8/31/2025,3,1,344.59,42.5
+MP-024,The Walk,St. Thomas,America/Barbados,"13.155103143456,-59.6113313021413",8/1/2025,8/31/2025,120,39,7258.21,3119.1
+MP-010,City Center Mall and Carpark,St. Michael,America/Barbados,"13.098217704116,-59.6175783039002",8/1/2025,8/31/2025,18,6,2443.78,301.4
+MP-006,The Condominiums at Palm Beach,Christ Church,America/Barbados,"13.0758939907924,-59.6029012733064",8/1/2025,8/31/2025,3,1,573.24,70.7
+MP-050,Cotton Bay (Freights Bay),Christ Church,America/Barbados,"13.05355,-59.53499",8/1/2025,8/31/2025,3,3,1003.9,123.9
+MP-003,Speightstown Esplanade,St. Peter,America/Barbados,"13.2508718611134,-59.6442456867991",8/1/2025,8/31/2025,3,2,741.08,91.4
+MP-065,Cedar Court,St. Michael,America/Barbados,"13.09375,-59.585849",8/1/2025,8/31/2025,0,0,0,0
+MP-020,The Walk,St. Thomas,America/Barbados,"13.155103143456,-59.6113313021413",8/1/2025,8/31/2025,0,0,0,0
+MP-061,Sheraton Center Barbados,Christ Church,America/Barbados,"13.0828117900741,-59.5666073309772",8/1/2025,8/31/2025,95,32,5738,707.7
+MP-004,Millennium Heights,St. Thomas,America/Barbados,"13.150460382201004,-59.61058751275202",8/1/2025,8/31/2025,4,2,831.08,102.5
+MP-1000,Melbourne Inn,Christ Church,America/Barbados,"13.0660298,-59.5649616",8/1/2025,8/31/2025,9,4,482.4,176.9
+MP-40,Barbados Yacht Club,St. Michael,America/Barbados,"13.083583,-59.608611",8/1/2025,8/31/2025,14,4,1321.62,163
+MP-075,Megapower Office ,St. Michael,America/Barbados,"13.093006,-59.586553",8/1/2025,8/31/2025,0,0,0,0
+MP-055,The Walk,St. Thomas,America/Barbados,"13.155103143456,-59.6113313021413",8/1/2025,8/31/2025,38,17,4449.73,548.8
+MP-015,Sky Mall,St. Michael,America/Barbados,"13.105389,-59.579667",8/1/2025,8/31/2025,82,21,8979.73,1107.5
+MP-021,Limegrove,St. James,America/Barbados,"13.1865238988325,-59.6359529309767",8/1/2025,8/31/2025,1,1,0,0
+MP-080,The Mill Barbados (Millhouse),St. Thomas,America/Barbados,"13.147281,-59.593348",8/1/2025,8/31/2025,13,6,302.45,110.9
+MP-082,One Welches Ltd,St. Thomas,America/Barbados,"13.155162,-59.613737",8/1/2025,8/31/2025,11,7,697.36,255.7
+MP-1001,Megapower Lower Estate,St. Michael,America/Barbados,"13.133618,-59.580635",8/1/2025,8/31/2025,24,5,4217.03,520.1
+MP-076,Millennium Heights,St. Thomas,America/Barbados,"13.150460382201004,-59.61058751275202",8/1/2025,8/31/2025,10,2,544.09,199.5
+MP-Sunlink,SunLink,Christ Church,America/Barbados,"13.074599,-59.512074",8/1/2025,8/31/2025,0,0,0,0
+MP-005,Coverley - Food Court,Christ Church,America/Barbados,"13.0845981581339,-59.5015983027884",8/1/2025,8/31/2025,27,13,681.78,84.1
+MP-073,W Mall Welches St.Thomas ,St. thomas,America/Barbados,"13.15586,-59.6141",8/1/2025,8/31/2025,13,11,473.73,173.7
+MP-052,The Crane Resort,St. Philip,America/Barbados,"13.10597,-59.44521",8/1/2025,8/31/2025,19,5,958.64,351.5
+MP-081,Barbados Light & Power - Spring Garden Car PArk,St. Michael,America/Barbados,"13.125772222570074,-59.63226024746143",8/1/2025,8/31/2025,0,0,0,0
+MP-002,Limegrove,St. James,America/Barbados,"13.1865238988325,-59.6359529309767",8/1/2025,8/31/2025,57,22,3431.18,1258.1
+MP-110,Government House,St. Michael,America/Barbados,"13.1012,-59.5996",8/1/2025,8/31/2025,0,0,0,0
+MP-013,Six Roads -Emerald City,St. Philip,America/Barbados,"13.1165433,-59.4761632",8/1/2025,8/31/2025,25,6,2401.62,296.2
+MP-022,Megapower Workshop,Christ Church,America/Barbados,"13.0668347,-59.5270605",9/1/2025,9/30/2025,0,0,0,0
+MP-007,BLPC Garrison,St. Thomas,America/Barbados,"13.0813384907889,-59.6077824021418",9/1/2025,9/30/2025,8,4,391.64,143.6
+MP-100,Megapower Lower Estate,St. Michael,America/Barbados,"13.133618,-59.580635",9/1/2025,9/30/2025,0,0,0,0
+MP-023,W Mall Welches St.Thomas ,St. Thomas,America/Barbados,"13.15586,-59.6141",9/1/2025,9/30/2025,55,23,2116.02,881.8
+MP-059,Millenium Heights 2,St. Thomas,America/Barbados,"13.15199,-59.60893",9/1/2025,9/30/2025,19,3,2297.84,283.4
+MP-063,Port St Charles (Pier One Restaurant),St. Peter,America/Barbados,"13.264145,-59.644266",9/1/2025,9/30/2025,24,5,2031.89,250.6
+MP-058,One Welches Ltd,St. Thomas,America/Barbados,"13.155162,-59.613737",9/1/2025,9/30/2025,30,8,2894.59,357
+MP-021,Limegrove,St. James,America/Barbados,"13.1865238988325,-59.6359529309767",9/1/2025,9/30/2025,3,3,0.87,1.5
+MP-051,Barbados Golf Club,Christ Church,America/Barbados,"13.0729306,-59.5267344",9/1/2025,9/30/2025,15,7,2719.46,335.4
+MP-054,W Mall Welches St.Thomas ,St. Thomas,America/Barbados,"13.15586,-59.6141",9/1/2025,9/30/2025,10,7,273,100.1
+MP-074,One Barbados Warrens,St. Michael,America/Barbados,"13.140969,-59.60947",9/1/2025,9/30/2025,60,12,2921.73,1071.3
+MP-014,One Haggatt Hall,St. Michael,America/Barbados,"13.1053216,-59.5822663",9/1/2025,9/30/2025,10,2,2217.57,273.5
+MP-024,The Walk,St. Thomas,America/Barbados,"13.155103143456,-59.6113313021413",9/1/2025,9/30/2025,162,49,10866.05,4655.7
+MP-010,City Center Mall and Carpark,St. Michael,America/Barbados,"13.098217704116,-59.6175783039002",9/1/2025,9/30/2025,21,7,2420.27,298.5
+MP-006,The Condominiums at Palm Beach,Christ Church,America/Barbados,"13.0758939907924,-59.6029012733064",9/1/2025,9/30/2025,5,1,1846.22,227.7
+MP-050,Cotton Bay (Freights Bay),Christ Church,America/Barbados,"13.05355,-59.53499",9/1/2025,9/30/2025,3,1,210.81,26
+MP-003,Speightstown Esplanade,St. Peter,America/Barbados,"13.2508718611134,-59.6442456867991",9/1/2025,9/30/2025,12,3,1894.05,233.6
+MP-065,Cedar Court,St. Michael,America/Barbados,"13.09375,-59.585849",9/1/2025,9/30/2025,0,0,0,0
+MP-020,The Walk,St. Thomas,America/Barbados,"13.155103143456,-59.6113313021413",9/1/2025,9/30/2025,0,0,0,0
+MP-061,Sheraton Center Barbados,Christ Church,America/Barbados,"13.0828117900741,-59.5666073309772",9/1/2025,9/30/2025,52,24,7548.65,931
+MP-004,Millennium Heights,St. Thomas,America/Barbados,"13.150460382201004,-59.61058751275202",9/1/2025,9/30/2025,9,2,1638.65,202.1
+MP-1000,Melbourne Inn,Christ Church,America/Barbados,"13.0660298,-59.5649616",9/1/2025,9/30/2025,7,3,0,0
+MP-40,Barbados Yacht Club,St. Michael,America/Barbados,"13.083583,-59.608611",9/1/2025,9/30/2025,35,9,3121.62,385
+MP-075,Megapower Office ,St. Michael,America/Barbados,"13.093006,-59.586553",9/1/2025,9/30/2025,0,0,0,0
+MP-055,The Walk,St. Thomas,America/Barbados,"13.155103143456,-59.6113313021413",9/1/2025,9/30/2025,42,18,3349.46,413.1
+MP-015,Sky Mall,St. Michael,America/Barbados,"13.105389,-59.579667",9/1/2025,9/30/2025,70,21,6871.62,847.5
+MP-080,The Mill Barbados (Millhouse),St. Thomas,America/Barbados,"13.147281,-59.593348",9/1/2025,9/30/2025,9,5,134.18,49.2
+MP-082,One Welches Ltd,St. Thomas,America/Barbados,"13.155162,-59.613737",9/1/2025,9/30/2025,10,6,785.73,288.1
+MP-1001,Megapower Lower Estate,St. Michael,America/Barbados,"13.133618,-59.580635",9/1/2025,9/30/2025,33,4,4727.84,583.1
+MP-076,Millennium Heights,St. Thomas,America/Barbados,"13.150460382201004,-59.61058751275202",9/1/2025,9/30/2025,28,4,1009.64,370.2
+MP-Sunlink,SunLink,Christ Church,America/Barbados,"13.074599,-59.512074",9/1/2025,9/30/2025,0,0,0,0
+MP-005,Coverley - Food Court,Christ Church,America/Barbados,"13.0845981581339,-59.5015983027884",9/1/2025,9/30/2025,22,12,895.95,110.5
+MP-073,W Mall Welches St.Thomas ,St. Thomas,America/Barbados,"13.15586,-59.6141",9/1/2025,9/30/2025,13,7,593.73,217.7
+MP-052,The Crane Resort,St. Philip,America/Barbados,"13.10597,-59.44521",9/1/2025,9/30/2025,10,4,308.45,113.1
+MP-081,Barbados Light & Power - Spring Garden Car PArk,St. Michael,America/Barbados,"13.125772222570074,-59.63226024746143",9/1/2025,9/30/2025,4,3,211.36,77.5
+MP-002,Limegrove,St. James,America/Barbados,"13.1865238988325,-59.6359529309767",9/1/2025,9/30/2025,111,32,5792.45,2123.9
+MP-110,Government House,St. Michael,America/Barbados,"13.1012,-59.5996",9/1/2025,9/30/2025,0,0,0,0
+MP-013,Six Roads -Emerald City,St. Philip,America/Barbados,"13.1165433,-59.4761632",9/1/2025,9/30/2025,11,6,1001.35,123.5
+MP-022,Megapower Workshop,Christ Church,America/Barbados,"13.0668347,-59.5270605",10/1/2025,10/31/2025,0,0,0,0
+MP-007,BLPC Garrison,St. Thomas,America/Barbados,"13.0813384907889,-59.6077824021418",10/1/2025,10/31/2025,12,7,535.09,196.2
+MP-023,W Mall Welches St.Thomas ,St. Thomas,America/Barbados,"13.15586,-59.6141",10/1/2025,10/31/2025,61,26,2426.88,1011.2
+MP-059,Millenium Heights 2,St. Thomas,America/Barbados,"13.15199,-59.60893",10/1/2025,10/31/2025,15,2,1796.76,221.6
+MP-063,Port St Charles (Pier One Restaurant),St. Peter,America/Barbados,"13.264145,-59.644266",10/1/2025,10/31/2025,36,9,6525.41,804.8
+MP-058,One Welches Ltd,St. Thomas,America/Barbados,"13.155162,-59.613737",10/1/2025,10/31/2025,39,6,2453.51,302.6
+MP-021,Limegrove,St. James,America/Barbados,"13.1865238988325,-59.6359529309767",10/1/2025,10/31/2025,12,6,51.06,85.1
+MP-051,Barbados Golf Club,Christ Church,America/Barbados,"13.0729306,-59.5267344",10/1/2025,10/31/2025,17,9,4538.92,559.8
+MP-054,W Mall Welches St.Thomas ,St. Thomas,America/Barbados,"13.15586,-59.6141",10/1/2025,10/31/2025,13,9,468,171.6
+MP-074,One Barbados Warrens,St. Michael,America/Barbados,"13.140969,-59.60947",10/1/2025,10/31/2025,55,10,2630.18,964.4
+MP-014,One Haggatt Hall,St. Michael,America/Barbados,"13.1053216,-59.5822663",10/1/2025,10/31/2025,4,1,820.54,101.2
+MP-024,The Walk,St. Thomas,America/Barbados,"13.155103143456,-59.6113313021413",10/1/2025,10/31/2025,163,54,9639.02,4160
+MP-010,City Center Mall and Carpark,St. Michael,America/Barbados,"13.098217704116,-59.6175783039002",10/1/2025,10/31/2025,15,6,2349.73,289.8
+MP-050,Cotton Bay (Freights Bay),Christ Church,America/Barbados,"13.05355,-59.53499",10/1/2025,10/31/2025,13,4,1297.3,160
+MP-006,The Condominiums at Palm Beach,Christ Church ,America/Barbados,"13.0758939907924,-59.6029012733064",10/1/2025,10/31/2025,0,0,0,0
+MP-065,Cedar Court,St. Michael,America/Barbados,"13.09375,-59.585849",10/1/2025,10/31/2025,0,0,0,0
+MP-003,Speightstown Esplanade,St. Peter,America/Barbados,"13.2508718611134,-59.6442456867991",10/1/2025,10/31/2025,0,0,0,0
+MP-020,The Walk,St. Thomas,America/Barbados,"13.155103143456,-59.6113313021413",10/1/2025,10/31/2025,0,0,0,0
+MP-061,Sheraton Center Barbados,Christ Church,America/Barbados,"13.0828117900741,-59.5666073309772",10/1/2025,10/31/2025,45,17,4700.27,579.7
+MP-004,Millennium Heights,St. Thomas,America/Barbados,"13.150460382201004,-59.61058751275202",10/1/2025,10/31/2025,20,4,1974.32,243.5
+MP-1000,Melbourne Inn,Christ Church,America/Barbados,"13.0660298,-59.5649616",10/1/2025,10/31/2025,6,2,80.73,29.6
+MP-40,Barbados Yacht Club,St. Michael,America/Barbados,"13.083583,-59.608611",10/1/2025,10/31/2025,24,6,1711.62,211.1
+MP-075,Megapower Office ,St. Michael,America/Barbados,"13.093006,-59.586553",10/1/2025,10/31/2025,0,0,0,0
+MP-015,Sky Mall,St. Michael,America/Barbados,"13.105389,-59.579667",10/1/2025,10/31/2025,71,22,5643.66,696.1
+MP-055,The Walk,St. Thomas,America/Barbados,"13.155103143456,-59.6113313021413",10/1/2025,10/31/2025,39,9,2898.65,357.5
+MP-080,The Mill Barbados (Millhouse),St. Thomas,America/Barbados,"13.147281,-59.593348",10/1/2025,10/31/2025,14,7,100.36,36.8
+MP-082,One Welches Ltd,St. Thomas,America/Barbados,"13.155162,-59.613737",10/1/2025,10/31/2025,14,5,897.82,329.2
+MP-1001,Megapower Lower Estate,St. Michael,America/Barbados,"13.133618,-59.580635",10/1/2025,10/31/2025,41,5,5206.4,642.2
+MP-076,Millennium Heights,St. Thomas,America/Barbados,"13.150460382201004,-59.61058751275202",10/1/2025,10/31/2025,7,3,161.73,59.3
+MP-Sunlink,SunLink,Christ Church,America/Barbados,"13.074599,-59.512074",10/1/2025,10/31/2025,0,0,0,0
+MP-005,Coverley - Food Court,Christ Church,America/Barbados,"13.0845981581339,-59.5015983027884",10/1/2025,10/31/2025,25,7,717.57,88.5
+MP-073,W Mall Welches St.Thomas ,St. Thomas,America/Barbados,"13.15586,-59.6141",10/1/2025,10/31/2025,27,14,1026,376.2
+MP-052,The Crane Resort,St. Philip,America/Barbados,"13.10597,-59.44521",10/1/2025,10/31/2025,15,4,667.64,244.8
+MP-081,Barbados Light & Power - Spring Garden Car PArk,St. Michael,America/Barbados,"13.125772222570074,-59.63226024746143",10/1/2025,10/31/2025,3,3,163.09,59.8
+MP-002,Limegrove,St. James,America/Barbados,"13.1865238988325,-59.6359529309767",10/1/2025,10/31/2025,102,37,6183.71,2267.4
+MP-013,Six Roads -Emerald City,St. Philip,America/Barbados,"13.1165433,-59.4761632",10/1/2025,10/31/2025,29,9,2220,273.8
+MP-022,Megapower Workshop,Christ Church,America/Barbados,"13.0668347,-59.5270605",11/1/2025,11/30/2025,0,0,0,0
+MP-007,BLPC Garrison,St. Thomas,America/Barbados,"13.0813384907889,-59.6077824021418",11/1/2025,11/30/2025,6,4,246.82,90.5
+MP-023,W Mall Welches St.Thomas ,St. Thomas,America/Barbados,"13.15586,-59.6141",11/1/2025,11/30/2025,39,24,1517.52,632.3
+MP-059,Millenium Heights 2,St. Thomas,America/Barbados,"13.15199,-59.60893",11/1/2025,11/30/2025,18,3,2449.46,302.1
+MP-063,Port St Charles (Pier One Restaurant),St. Peter,America/Barbados,"13.264145,-59.644266",11/1/2025,11/30/2025,27,9,4054.86,500.1
+MP-058,One Welches Ltd,St. Thomas,America/Barbados,"13.155162,-59.613737",11/1/2025,11/30/2025,35,5,2751.08,339.3
+MP-021,Limegrove,St. James,America/Barbados,"13.1865238988325,-59.6359529309767",11/1/2025,11/30/2025,19,7,3.43,5.7
+MP-051,Barbados Golf Club,Christ Church,America/Barbados,"13.0729306,-59.5267344",11/1/2025,11/30/2025,7,6,934.86,115.3
+MP-054,W Mall Welches St.Thomas ,St. Thomas,America/Barbados,"13.15586,-59.6141",11/1/2025,11/30/2025,7,5,192.27,70.5
+MP-074,One Barbados Warrens,St. Michael,America/Barbados,"13.140969,-59.60947",11/1/2025,11/30/2025,53,9,2601,953.7
+MP-014,One Haggatt Hall,St. Michael,America/Barbados,"13.1053216,-59.5822663",11/1/2025,11/30/2025,3,2,197.03,24.3
+MP-024,The Walk,St. Thomas,America/Barbados,"13.155103143456,-59.6113313021413",11/1/2025,11/30/2025,131,44,6869.8,2952.1
+MP-010,City Center Mall and Carpark,St. Michael,America/Barbados,"13.098217704116,-59.6175783039002",11/1/2025,11/30/2025,17,9,2024.59,249.7
+MP-050,Cotton Bay (Freights Bay),Christ Church,America/Barbados,"13.05355,-59.53499",11/1/2025,11/30/2025,12,6,1692.97,208.8
+MP-006,The Condominiums at Palm Beach,Christ Church ,America/Barbados,"13.0758939907924,-59.6029012733064",11/1/2025,11/30/2025,2,1,240,29.6
+MP-003,Speightstown Esplanade,St. Peter,America/Barbados,"13.2508718611134,-59.6442456867991",11/1/2025,11/30/2025,4,4,417.57,51.5
+MP-065,Cedar Court,St. Michael,America/Barbados,"13.09375,-59.585849",11/1/2025,11/30/2025,0,0,0,0
+MP-020,The Walk,St. Thomas,America/Barbados,"13.155103143456,-59.6113313021413",11/1/2025,11/30/2025,0,0,0,0
+MP-061,Sheraton Center Barbados,Christ Church,America/Barbados,"13.0828117900741,-59.5666073309772",11/1/2025,11/30/2025,60,17,5844.32,720.8
+MP-004,Millennium Heights,St. Thomas,America/Barbados,"13.150460382201004,-59.61058751275202",11/1/2025,11/30/2025,4,2,221.35,27.3
+MP-1000,Melbourne Inn,Christ Church,America/Barbados,"13.0660298,-59.5649616",11/1/2025,11/30/2025,3,3,99.27,36.4
+MP-40,Barbados Yacht Club,St. Michael,America/Barbados,"13.083583,-59.608611",11/1/2025,11/30/2025,41,6,2797.56,345.1
+MP-075,Megapower Office ,St. Michael,America/Barbados,"13.093006,-59.586553",11/1/2025,11/30/2025,0,0,0,0
+MP-055,The Walk,St. Thomas,America/Barbados,"13.155103143456,-59.6113313021413",11/1/2025,11/30/2025,23,16,1669.46,205.9
+MP-015,Sky Mall,St. Michael,America/Barbados,"13.105389,-59.579667",11/1/2025,11/30/2025,37,16,3758.11,463.5
+MP-080,The Mill Barbados (Millhouse),St. Thomas,America/Barbados,"13.147281,-59.593348",11/1/2025,11/30/2025,18,8,489.55,179.5
+MP-082,One Welches Ltd,St. Thomas,America/Barbados,"13.155162,-59.613737",11/1/2025,11/30/2025,10,4,628.36,230.4
+MP-1001,Megapower Lower Estate,St. Michael,America/Barbados,"13.133618,-59.580635",11/1/2025,11/30/2025,19,3,3332.11,411
+MP-076,Millennium Heights,St. Thomas,America/Barbados,"13.150460382201004,-59.61058751275202",11/1/2025,11/30/2025,11,2,602.45,220.9
+MP-Sunlink,SunLink,Christ Church,America/Barbados,"13.074599,-59.512074",11/1/2025,11/30/2025,0,0,0,0
+MP-005,Coverley - Food Court,Christ Church,America/Barbados,"13.0845981581339,-59.5015983027884",11/1/2025,11/30/2025,34,10,3621.08,446.6
+MP-073,W Mall Welches St.Thomas ,St. Thomas,America/Barbados,"13.15586,-59.6141",11/1/2025,11/30/2025,10,7,309.27,113.4
+MP-052,The Crane Resort,St. Philip,America/Barbados,"13.10597,-59.44521",11/1/2025,11/30/2025,14,6,804.27,294.9
+MP-081,Barbados Light & Power - Spring Garden Car PArk,St. Michael,America/Barbados,"13.125772222570074,-59.63226024746143",11/1/2025,11/30/2025,10,2,751.36,275.5
+MP-002,Limegrove,St. James,America/Barbados,"13.1865238988325,-59.6359529309767",11/1/2025,11/30/2025,116,43,5970.27,2189.1
+MP-013,Six Roads -Emerald City,St. Philip,America/Barbados,"13.1165433,-59.4761632",11/1/2025,11/30/2025,35,10,3475.95,428.7
+MP-022,Megapower Workshop,Christ Church,America/Barbados,"13.0668347,-59.5270605",12/1/2025,12/31/2025,0,0,0,0
+MP-007,BLPC Garrison,St. Thomas,America/Barbados,"13.0813384907889,-59.6077824021418",12/1/2025,12/31/2025,8,4,156.82,57.5
+MP-023,W Mall Welches St.Thomas ,St. Thomas,America/Barbados,"13.15586,-59.6141",12/1/2025,12/31/2025,45,25,2306.16,960.9
+MP-059,Millenium Heights 2,St. Thomas,America/Barbados,"13.15199,-59.60893",12/1/2025,12/31/2025,17,4,2704.05,333.5
+MP-063,Port St Charles (Pier One Restaurant),St. Peter,America/Barbados,"13.264145,-59.644266",12/1/2025,12/31/2025,44,10,8351.35,1030
+MP-058,One Welches Ltd,St. Thomas,America/Barbados,"13.155162,-59.613737",12/1/2025,12/31/2025,25,6,2297.84,283.4
+MP-021,Limegrove,St. James,America/Barbados,"13.1865238988325,-59.6359529309767",12/1/2025,12/31/2025,0,0,0,0
+MP-051,Barbados Golf Club,Christ Church,America/Barbados,"13.0729306,-59.5267344",12/1/2025,12/31/2025,13,4,1686.49,208
+MP-054,W Mall Welches St.Thomas ,St. Thomas,America/Barbados,"13.15586,-59.6141",12/1/2025,12/31/2025,17,10,496.36,182
+MP-074,One Barbados Warrens,St. Michael,America/Barbados,"13.140969,-59.60947",12/1/2025,12/31/2025,42,13,2029.64,744.2
+MP-014,One Haggatt Hall,St. Michael,America/Barbados,"13.1053216,-59.5822663",12/1/2025,12/31/2025,9,2,1557.57,192.1
+MP-024,The Walk,St. Thomas,America/Barbados,"13.155103143456,-59.6113313021413",12/1/2025,12/31/2025,140,53,8573.56,3684
+MP-010,City Center Mall and Carpark,St. Michael,America/Barbados,"13.098217704116,-59.6175783039002",12/1/2025,12/31/2025,24,11,2777.03,342.5
+MP-006,The Condominiums at Palm Beach,Christ Church,America/Barbados,"13.0758939907924,-59.6029012733064",12/1/2025,12/31/2025,12,3,1932.16,238.3
+MP-050,Cotton Bay (Freights Bay),Christ Church,America/Barbados,"13.05355,-59.53499",12/1/2025,12/31/2025,14,7,2803.78,345.8
+MP-003,Speightstown Esplanade,St. Peter,America/Barbados,"13.2508718611134,-59.6442456867991",12/1/2025,12/31/2025,6,1,1546.22,190.7
+MP-065,Santosha East Coat,St. Andrew,America/Barbados,"13.246398,-59.551534",12/1/2025,12/31/2025,8,2,250.54,30.9
+MP-020,The Walk,St. Thomas,America/Barbados,"13.155103143456,-59.6113313021413",12/1/2025,12/31/2025,0,0,0,0
+MP-061,Sheraton Center Barbados,Christ Church,America/Barbados,"13.0828117900741,-59.5666073309772",12/1/2025,12/31/2025,72,29,10463.51,1290.5
+MP-004,Millennium Heights,St. Thomas,America/Barbados,"13.150460382201004,-59.61058751275202",12/1/2025,12/31/2025,0,0,0,0
+MP-1000,Melbourne Inn,Christ Church,America/Barbados,"13.0660298,-59.5649616",12/1/2025,12/31/2025,12,7,1413,518.1
+MP-40,Barbados Yacht Club,St. Michael,America/Barbados,"13.083583,-59.608611",12/1/2025,12/31/2025,31,10,4549.46,561.1
+MP-075,Megapower Office ,St. Michael,America/Barbados,"13.093006,-59.586553",12/1/2025,12/31/2025,0,0,0,0
+MP-015,Sky Mall,St. Michael,America/Barbados,"13.105389,-59.579667",12/1/2025,12/31/2025,44,15,4075.14,502.6
+MP-055,The Walk,St. Thomas,America/Barbados,"13.155103143456,-59.6113313021413",12/1/2025,12/31/2025,40,17,3517.3,433.8
+MP-080,The Mill Barbados (Millhouse),St. Thomas,America/Barbados,"13.147281,-59.593348",12/1/2025,12/31/2025,14,5,216.55,79.4
+MP-082,One Welches Ltd,St. Thomas,America/Barbados,"13.155162,-59.613737",12/1/2025,12/31/2025,12,5,675.27,247.6
+MP-1001,Megapower Lower Estate,St. Michael,America/Barbados,"13.133618,-59.580635",12/1/2025,12/31/2025,21,5,1979.69,244.3
+MP-076,Millennium Heights,St. Thomas,America/Barbados,"13.150460382201004,-59.61058751275202",12/1/2025,12/31/2025,8,3,542.45,198.9
+MP-Sunlink,SunLink,Christ Church,America/Barbados,"13.074599,-59.512074",12/1/2025,12/31/2025,0,0,0,0
+MP-005,Coverley - Food Court,Christ Church,America/Barbados,"13.0845981581339,-59.5015983027884",12/1/2025,12/31/2025,58,14,4398.65,542.5
+MP-073,W Mall Welches St.Thomas ,St. Thomas,America/Barbados,"13.15586,-59.6141",12/1/2025,12/31/2025,21,8,476.45,174.7
+MP-081,Barbados Light & Power - Spring Garden Car PArk,St. Michael,America/Barbados,"13.125772222570074,-59.63226024746143",12/1/2025,12/31/2025,6,3,546,200.2
+MP-052,The Crane Resort,St. Philip,America/Barbados,"13.10597,-59.44521",12/1/2025,12/31/2025,16,3,957.27,351
+MP-002,Limegrove,St. James,America/Barbados,"13.1865238988325,-59.6359529309767",12/1/2025,12/31/2025,126,37,5821.09,2134.4
+MP-013,Six Roads -Emerald City,St. Philip,America/Barbados,"13.1165433,-59.4761632",12/1/2025,12/31/2025,27,10,2799.73,345.3
